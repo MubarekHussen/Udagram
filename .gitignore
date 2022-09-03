@@ -3,5 +3,6 @@
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
-www/my_key
+WWW/
+my_key
 my_key.pub
