@@ -5,4 +5,4 @@
 !.elasticbeanstalk/*.global.yml
 my_key
 my_key.pub
-www/*
+*/www/*
